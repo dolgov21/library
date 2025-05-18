@@ -13,6 +13,7 @@ pydantic-settings = "^2.9.1"
 uvicorn = "^0.34.2"
 sqlalchemy = "^2.0.41"
 loguru = "^0.7.3"
+asyncpg = "^0.30.0"
 
 
 [tool.poetry.group.dev.dependencies]
